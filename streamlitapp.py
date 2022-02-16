@@ -54,7 +54,7 @@ def predict_salary(YearsExperience,interview_score):
 def main():
     st.title("LET'S PREDICT YOUR SALARY")
     html_temp = """
-    <div style="background-color:Aqua;padding:10px">
+    <div style="background-color:Vista Blue;padding:10px">
     <h2 style="color:white;text-align:center;">SALARY PREDICTION ML App </h2>
     </div>
     """
